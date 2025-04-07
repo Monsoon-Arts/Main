@@ -2,6 +2,9 @@
   "name": "Main",
   "tree": {
     "$className": "DataModel",
+    "$properties": {
+      "FilteringEnabled": true
+    },
 
     "ReplicatedStorage": {
       "$path": "src/shared"
